@@ -1,0 +1,3 @@
+[submodule "ouest_france"]
+	path = ouest_france
+	url = https://github.com/parrains2k17/website
